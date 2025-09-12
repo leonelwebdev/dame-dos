@@ -32,7 +32,8 @@ const Header = () => {
           onClick={handleLogoClick}
         >
           <div className="py-2 lg:py-0">
-            <img src={logo} className='h-12' alt="Logo" />
+            {/* <img src={logo} className='h-12' alt="Logo" /> */}
+            <h1>Logo</h1>
           </div>
           <div>
           </div>
